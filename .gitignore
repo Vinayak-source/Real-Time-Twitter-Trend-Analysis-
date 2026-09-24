@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+*.log
+Database/tweet_hashtags_db.sql
